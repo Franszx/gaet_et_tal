@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: aqua;
+}
+
+#celebration {
+  display: none;
+}
+
+#feedback {
+  font-weight: bolder;
+  color: goldenrod;
+}
